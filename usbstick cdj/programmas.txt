@@ -1,0 +1,7 @@
+scratch
+Adobe air installer
+pdf reader
+java
+arduino
+
+folder: https://github.com/cbecc/scratch4arduino

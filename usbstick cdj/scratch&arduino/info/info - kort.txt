@@ -1,0 +1,15 @@
+- opstarten
+1. start scratch
+2. shift ingedruk houden en op bestand klikken
+3. klik op “Import experimental extension"
+4. open het bestand "C:\Users\admin\Desktop\scratch&arduino\scratch4arduino-master\A4S.s2e"
+
+5. sluit arduino aan
+6. upload StandardFirmata  naar de arduino met de arduino software
+7. dubbel klik op het bestand "start A4S - COM4"
+
+-extra
+*Het bestand "formule" kan als sprite in scratch ingeladen worden voor het gebruik van de lichtsensor
+*Het bestand "voorbeeld"
+
+
