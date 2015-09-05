@@ -10,3 +10,5 @@ http://fritzing.org/download/
 
 Fouten, ideeen, meewerken,...
 email me: eavhove@gmail.com
+
+Gemaakt voor Coderdojo Klein Brabant & Coderdojo Sint-Katelijne-Waver
