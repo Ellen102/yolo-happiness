@@ -1,0 +1,24 @@
+https://github.com/firmata/processing/blob/master/src/Firmata.java
+https://github.com/firmata/arduino
+https://www.arduino.cc/en/Tutorial/PWM
+A call to analogWrite() is on a scale of 0 - 255, such that analogWrite(255) requests a 100% duty cycle (always on), and analogWrite(127) is a 50% duty cycle (on half the time) for example. 
+
+
+ /**
+   * Write an analog value (PWM-wave) to a digital pin.
+   *
+   * @param pin the pin to write to (must be 9, 10, or 11, as those are they
+   * only ones which support hardware pwm)
+   * @param value the value: 0 being the lowest (always off), and 255 the highest
+   * (always on)
+   */
+  public void analogWrite(int pin, int value) {
+    pinMode(pin, PWM);
+    out.write(ANALOG_MESSAGE | (pin & 0x0F));
+    out.write(value & 0x7F);
+    out.write(value >> 7);
+  }
+
+configure as pwm
+analoge write (0-255) to D9,10,11
+

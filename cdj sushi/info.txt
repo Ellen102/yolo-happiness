@@ -1,3 +1,0 @@
-lettertype titel: Arial Rounded MT Bold 32/24
-lettertype tekst: Arial Rounded MT Bold 16 BOLD / 14
-lettertype notes: Buxton Sketch 14
