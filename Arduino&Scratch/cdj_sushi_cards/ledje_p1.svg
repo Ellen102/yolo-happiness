@@ -62,9 +62,9 @@
      inkscape:window-height="660"
      id="namedview3338"
      showgrid="false"
-     inkscape:zoom="0.99276861"
-     inkscape:cx="375.08676"
-     inkscape:cy="737.97625"
+     inkscape:zoom="0.70062234"
+     inkscape:cx="382.42306"
+     inkscape:cy="371.71201"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -487,13 +487,11 @@
        id="path7324"
        inkscape:connector-curvature="0" />
     <g
-       style=""
        id="g4191"
-       transform="matrix(0.75184228,0,0,0.75176114,94.437587,4.8699286)">
+       transform="matrix(0.75184228,0,0,0.75176114,94.437587,-9.1300714)">
       <g
          id="g4196"
-         transform="translate(-56.316107,-547.67411)"
-         style="">
+         transform="translate(-56.316107,-547.67411)">
         <circle
            style="display:inline;fill:#006174;fill-opacity:1;stroke:#006174;stroke-width:0.38561982;stroke-opacity:1"
            id="path4165"
@@ -512,39 +510,34 @@
              id="tspan4171"
              x="23.568424"
              y="1012.1941"
-             style="-inkscape-font-specification:'Arial Rounded MT Bold, ';font-family:'Arial Rounded MT Bold';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, '">1</tspan></text>
       </g>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:46.48506546px;line-height:125%;font-family:'Arial Rounded MT Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#006174;fill-opacity:1;stroke:#006174;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Arial Rounded MT Bold, ';font-stretch:normal;font-variant:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.48506546px;line-height:125%;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#006174;fill-opacity:1;stroke:#006174;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="310.09006"
        y="194.63304"
        id="text4174"
        sodipodi:linespacing="125%"
        transform="scale(1.0865435,0.92034971)"><tspan
          sodipodi:role="line"
-         id="tspan4176"
-         x="316.92599"
+         x="315.09006"
          y="194.63304"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#006174;fill-opacity:1;stroke:#006174;stroke-opacity:1;">Ledje laten knipperen </tspan><tspan
-         sodipodi:role="line"
-         x="310.09006"
-         y="244.63304"
          id="tspan4178"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#006174;fill-opacity:1;stroke:#006174;stroke-opacity:1;">met Scratch &amp; Arduino</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:#006174;fill-opacity:1;stroke:#006174;stroke-opacity:1">Ledje laten knipperen </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:'Arial Rounded MT Bold';letter-spacing:0px;word-spacing:0px;fill:#006174;fill-opacity:1;stroke:#006174;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Arial Rounded MT Bold, ';font-stretch:normal;font-variant:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';letter-spacing:0px;word-spacing:0px;fill:#006174;fill-opacity:1;stroke:#006174;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="132.15335"
-       y="307.51773"
+       y="293.51773"
        id="text4201"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4203"
          x="132.15335"
-         y="307.51773"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';">Wat hebben we nodig?</tspan></text>
+         y="293.51773"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, '">Wat hebben we nodig?</tspan></text>
     <g
        style=""
        id="g6087"

@@ -1,0 +1,32 @@
+#algemeen
+-Verplicht
+uiterlijken
+Herhaal lus
+als dan
+variabele
+signalen
+
+-aanbevolen
+klonen
+
+1. ledje
+herhaal, als dan
+
+2. knopje
+herhaal,als dan,signaal
+
+3.tiltsensor
+klonen (opdracht **)
+
+4. potentiometer
+hoeken (aanbevolen)
+variabele
+
+5. lichtsensor
+variabele
+klonen (***)
+
+#scracht & arduino:
+verplicht 1 ledje en dan 2 knopje daarna mag vrij kiezen.
+
+
