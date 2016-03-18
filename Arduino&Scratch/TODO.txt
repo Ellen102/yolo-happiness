@@ -1,3 +1,7 @@
 - [x] vermelden dat ze op kleuren op de weerstand moeten letten
 - [x] ergens op een tekening is een breadbord omgedraait das verwarrend
 - het spel van de potentiometer beetje beter uitwerken want 'het ziet er cool uit'
+- [ ] pwm
+- [ ] 180 servo
+- [ ] contini servo
+- [ ] 3 kleuren
