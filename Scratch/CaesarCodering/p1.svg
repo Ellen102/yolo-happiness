@@ -441,9 +441,9 @@
      inkscape:window-height="660"
      id="namedview3338"
      showgrid="false"
-     inkscape:zoom="0.69109946"
-     inkscape:cx="279.02981"
-     inkscape:cy="625.7074"
+     inkscape:zoom="0.97545332"
+     inkscape:cx="339.23258"
+     inkscape:cy="157.2687"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1109,7 +1109,7 @@
            id="tspan9021-9"
            sodipodi:role="line">?</tspan></text>
       <flowRoot
-         transform="translate(16.306709,-2.0383386)"
+         transform="translate(8.1053939,-2.0383386)"
          style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#00a4c9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot10108"
          xml:space="preserve"><flowRegion
@@ -1120,8 +1120,8 @@
              height="25.479218"
              width="110.07028"
              id="rect10112" /></flowRegion><flowPara
-           id="flowPara10114">encoderen</flowPara></flowRoot>      <flowRoot
-         transform="translate(8.230031,-3.0575079)"
+           id="flowPara10114">encrypteren</flowPara></flowRoot>      <flowRoot
+         transform="translate(-9.769969,-3.0575079)"
          style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#00a4c9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot10116"
          xml:space="preserve"><flowRegion
@@ -1132,7 +1132,7 @@
              height="27.517599"
              width="108.03194"
              id="rect10120" /></flowRegion><flowPara
-           id="flowPara10122">decoderen</flowPara></flowRoot>      <flowRoot
+           id="flowPara10122">decrypteren</flowPara></flowRoot>      <flowRoot
          transform="translate(93.142116,-1.8488777)"
          style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;display:inline;fill:#00a4c9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="flowRoot10108-87"
@@ -1286,7 +1286,7 @@
            x="50.446304"
            y="752.42963"
            style="fill:#00a4c9;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara9719-3">De sleutel was in dit geval 3. Kun je deze boodschap met sleutel 10 decoderen? rkvvy</flowPara></flowRoot>  </g>
+         id="flowPara9719-3">De sleutel was in dit geval 3. Kun je deze boodschap met sleutel 10 decrypteren? rkvvy</flowPara></flowRoot>  </g>
   <flowRoot
      xml:space="preserve"
      id="flowRoot5707"
