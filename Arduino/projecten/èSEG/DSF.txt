@@ -1,0 +1,222 @@
+
+//todo vul de juiste waarden in die overeenkomen met de pin
+#define A 2
+#define B 3
+#define C 4
+#define D 5
+#define E 6
+#define PIN_F 7
+#define G 8
+#define DOT 9
+
+/*7 segmenten display*/
+void setup()
+{
+
+  /* configureer de pinnen*/
+  pinMode(A, OUTPUT);
+  pinMode(B, OUTPUT);
+  pinMode(C, OUTPUT);
+  pinMode(D, OUTPUT);
+  pinMode(E, OUTPUT);
+  pinMode(PIN_F, OUTPUT);
+  pinMode(G, OUTPUT);
+  pinMode(DOT, OUTPUT);
+  
+}
+
+void loop()
+{
+
+  /* add main program code he re */
+    nul();
+    delay(1 *500);
+    alles_uit();
+    delay(1 *50);
+    een();
+    delay(1 *500);
+    alles_uit();
+    delay(1 *50);
+    twee();
+    delay(1 *500);
+    alles_uit();
+    delay(1 *50);
+    drie();
+    delay(1 *500);
+    alles_uit();
+    delay(1 *50);
+    vier();
+    delay(1 *500);
+    alles_uit();
+    delay(1 *50);
+    vijf();
+    delay(1 *500);
+    alles_uit();
+    delay(1 *50);
+    zes();
+    delay(1 *500);
+    alles_uit();
+    delay(1 *50);
+    zeven();
+    delay(1 *500);
+    alles_uit();
+    delay(1 *50);
+    acht();
+    delay(1 *500);
+    alles_uit();
+    delay(1 *50);
+    negen();
+    delay(1 *500);
+    alles_uit();
+    delay(1 *50);
+    
+
+
+
+
+
+}
+void nul() {
+  digitalWrite(A, 1);
+  digitalWrite(B, 1);
+  digitalWrite(C, 1);
+  digitalWrite(D, 1);
+  digitalWrite(E, 1);
+  digitalWrite(PIN_F, 1);
+  digitalWrite(G, 0);
+  digitalWrite(DOT, 1);
+  //todo
+}
+
+void een() {
+  digitalWrite(A, 0);
+  digitalWrite(B, 1);
+  digitalWrite(C, 1);
+  digitalWrite(D, 0);
+  digitalWrite(E, 0);
+  digitalWrite(PIN_F, 0);
+  digitalWrite(G, 0);
+  digitalWrite(DOT, 1);
+  //todo
+}
+
+void twee() {
+  digitalWrite(A, 1);
+  digitalWrite(B, 1);
+  digitalWrite(C, 0);
+  digitalWrite(D, 1);
+  digitalWrite(E, 1);
+  digitalWrite(PIN_F, 0);
+  digitalWrite(G, 1);
+  digitalWrite(DOT, 1);
+  
+  //todo
+}
+
+void drie() {
+  digitalWrite(A, 1);
+  digitalWrite(B, 1);
+  digitalWrite(C, 1);
+  digitalWrite(D, 1);
+  digitalWrite(E, 0);
+  digitalWrite(PIN_F, 0);
+  digitalWrite(G, 1);
+  digitalWrite(DOT, 1);
+  //todo
+}
+
+void vier() {
+  digitalWrite(A, 0);
+  digitalWrite(B, 1);
+  digitalWrite(C, 1);
+  digitalWrite(D, 0);
+  digitalWrite(E, 0);
+  digitalWrite(PIN_F, 1);
+  digitalWrite(G, 1);
+  digitalWrite(DOT, 1);
+  //todo
+}
+
+void vijf() {
+  digitalWrite(A, 1);
+  digitalWrite(B, 0);
+  digitalWrite(C, 1);
+  digitalWrite(D, 1);
+  digitalWrite(E, 0);
+  digitalWrite(PIN_F, 1);
+  digitalWrite(G, 1);
+  digitalWrite(DOT, 1);
+  //todo
+}
+
+void zes() {
+  digitalWrite(A, 1);
+  digitalWrite(B, 0);
+  digitalWrite(C, 1);
+  digitalWrite(D, 1);
+  digitalWrite(E, 1);
+  digitalWrite(PIN_F, 1);
+  digitalWrite(G, 1);
+  digitalWrite(DOT, 1);
+  //todo
+}
+
+void zeven() {
+  digitalWrite(A, 1);
+  digitalWrite(B, 1);
+  digitalWrite(C, 1);
+  digitalWrite(D, 0);
+  digitalWrite(E, 0);
+  digitalWrite(PIN_F, 0);
+  digitalWrite(G, 0);
+  digitalWrite(DOT, 1);
+  //todo
+}
+
+void acht() {
+  digitalWrite(A, 1);
+  digitalWrite(B, 1);
+  digitalWrite(C, 1);
+  digitalWrite(D, 1);
+  digitalWrite(E, 1);
+  digitalWrite(PIN_F, 1);
+  digitalWrite(G, 1);
+  digitalWrite(DOT, 1);
+  //todo
+}
+
+void negen() {
+  digitalWrite(A, 1);
+  digitalWrite(B, 1);
+  digitalWrite(C, 1);
+  digitalWrite(D, 1);
+  digitalWrite(E, 0);
+  digitalWrite(PIN_F, 1);
+  digitalWrite(G, 1);
+  digitalWrite(DOT, 1);
+  //Todo
+}
+
+//zet alles aan
+void alles_aan() {
+  digitalWrite(A, 1);
+  digitalWrite(B, 1);
+  digitalWrite(C, 1);
+  digitalWrite(D, 1);
+  digitalWrite(E, 1);
+  digitalWrite(PIN_F, 1);
+  digitalWrite(G, 1);
+  digitalWrite(DOT, 1);
+}
+
+//zet all segmenten uit
+void alles_uit() {
+  digitalWrite(A, 0);
+  digitalWrite(B, 0);
+  digitalWrite(C, 0);
+  digitalWrite(D, 0);
+  digitalWrite(E, 0);
+  digitalWrite(PIN_F, 0);
+  digitalWrite(G, 0);
+  digitalWrite(DOT, 0);
+}

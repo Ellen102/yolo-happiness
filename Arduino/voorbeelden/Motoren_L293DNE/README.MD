@@ -1,0 +1,1 @@
+http://www.alldatasheet.com/datasheet-pdf/pdf/26889/TI/L293DNE.html
